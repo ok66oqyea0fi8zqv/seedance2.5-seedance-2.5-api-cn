@@ -6,7 +6,7 @@
 
 > **每秒 $0.0961 起（480P）**，按生成秒数计费，$1 起充，同一个 OpenAI 兼容接口。
 
-**[查看模型页](https://apimart.ai/model/seedance-2.5)** · **[实时价格](https://apimart.ai/pricing)** · **[获取 API Key](https://apimart.ai/keys)**
+**[查看模型页](https://go.apimart.ai/k-a32dd1)** · **[实时价格](https://go.apimart.ai/k-8e8c58)** · **[获取 API Key](https://go.apimart.ai/k-1064a0)**
 
 本文覆盖 Seedance 2.5（也写作 seedance2.5、seedance 2.5）的模型 ID、**按秒计费的价格**、分辨率档位与调用方式，通过 API 中转网关 `https://api.apimart.ai/v1` 调用。
 
